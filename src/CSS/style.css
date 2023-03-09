@@ -1,12 +1,13 @@
 /* header */
 .header {
     background-color: #cccccc;
-    padding: 5px;
+    padding: 8px;
 }
 
 .header__heading {
-    font-size: 25px;
-    margin-left: 5px;
+    font-size: 30px;
+    margin-left: 15px;
+    font-weight: bolder;
 }
 
 /* navbar */
@@ -21,7 +22,7 @@
     list-style: none;
     color: white;
     border: 1px solid white;
-    padding: 12px;
+    padding: 9px;
 }
 
 a {
@@ -31,7 +32,7 @@ a {
 
 #navbar__list1 {
     margin-left: -41px;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 
 li:hover {
@@ -82,4 +83,5 @@ main h1 {
     text-align: right;
     background-color: #cccccc;
     padding: 8px;
+    color: #4c4c4c;
 }
